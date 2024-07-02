@@ -12,6 +12,6 @@ In my journey, I have been exploring various web technologies and frameworks, an
 - 🔭 I’m currently working on: 
 - 🌱 I’m currently learning: NextJs
 - 💬 Ask me about: HTML, CSS, JavaScript, React
-- 📫 How to reach me: [Mail Me!](naimoonjannat@gmail.com)
+- 📫 How to reach me: Mail Me - naimoonjannat@gmail.com
 - 🤔 I’m trying: To improve my skills 
 - ⚡ Fun fact: Am a BookWorm and can read for hours
