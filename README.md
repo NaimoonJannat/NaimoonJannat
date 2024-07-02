@@ -10,7 +10,7 @@ In my journey, I have been exploring various web technologies and frameworks, an
 ## Overview
 
 - 🔭 I’m currently working on: 
-- 🌱 I’m currently learning: NextJs
+- 🌱 I’m currently learning: <b>NextJs<b>
 - 💬 Ask me about: HTML, CSS, JavaScript, React
 - 📫 How to reach me: Mail Me - naimoonjannat@gmail.com
 - 🤔 I’m trying: To improve my skills 
