@@ -40,6 +40,7 @@ In my journey, I have been exploring various web technologies and frameworks, an
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
 
 
 </p>
