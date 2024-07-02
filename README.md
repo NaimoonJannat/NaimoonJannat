@@ -1,13 +1,11 @@
 <p align="center"><img width="80%" src="./Assets/webdevelopmentbanner.jpg" /></p>
 
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-I am Naimoon Jannat Prapti, living in Bangladesh. Currently, I am pursuing a B.Sc in Computer Science and Engineering. I have a passion for web development and am dedicated to continuously learning and improving my skills in this field.
-
-In my journey, I have been exploring various web technologies and frameworks, and I enjoy building interactive and dynamic web applications. My goal is to become a proficient full-stack developer and contribute to impactful projects.
+I am Naimoon Jannat Prapti, living in Bangladesh. Currently, I am pursuing a B.Sc in Computer Science and Engineering. I have a passion for web development and am dedicated to continuously learning and improving my skills in this field. In my journey, I have been exploring various web technologies and frameworks, and I enjoy building interactive and dynamic web applications. My goal is to become a proficient full-stack developer and contribute to impactful projects.
 
 ## Overview
 
-- 🔭 I’m currently working on: 
+- 🔭 I’m currently working on: A React based project
 - 🌱 I’m currently learning: <b>NextJs</b>
 - 💬 Ask me about: <b>HTML, CSS, JavaScript, React</b>
 - 📫 How to reach me: Mail Me - <b>naimoonjannat@gmail.com</b>
@@ -18,8 +16,6 @@ In my journey, I have been exploring various web technologies and frameworks, an
 ![Naimoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaimoonJannat&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimoonJannat&layout=compact&theme=radical)
 
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaimoonJannat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect with me
 <p align="left">
