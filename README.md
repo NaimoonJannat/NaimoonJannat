@@ -1,6 +1,6 @@
+<p align="center"><img width="80%" src="./Assets/webdevelopmentbanner.jpg" /></p>
+
 ## Hi there 👋
-
-
 
 Here are some ideas to get you started:
 
