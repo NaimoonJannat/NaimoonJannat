@@ -10,13 +10,29 @@ In my journey, I have been exploring various web technologies and frameworks, an
 ## Overview
 
 - 🔭 I’m currently working on: 
-- 🌱 I’m currently learning: <b>NextJs<b>
-- 💬 Ask me about: HTML, CSS, JavaScript, React
-- 📫 How to reach me: Mail Me - naimoonjannat@gmail.com
-- 🤔 I’m trying: To improve my skills 
+- 🌱 I’m currently learning: <b>NextJs</b>
+- 💬 Ask me about: <b>HTML, CSS, JavaScript, React</b>
+- 📫 How to reach me: Mail Me - <b>naimoonjannat@gmail.com</b>
+- 🤔 I’m trying: <b>To improve my skills </b>
 - ⚡ Fun fact: Am a BookWorm and can read for hours
 
- &nbsp;**Connect with me**
+ ## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/naimoon-jannat922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/naimoon.jannat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+
+## Familar Skills
+<p>
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS
+" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
