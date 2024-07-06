@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="./Assets/webdevelopmentbanner.jpg" /></p>
+<p align="center"><img width="80%" src="./Assets/banner.png" /></p>
 
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 I am Naimoon Jannat Prapti, living in Bangladesh. Currently, I am pursuing a B.Sc in Computer Science and Engineering. I have a passion for web development and am dedicated to continuously learning and improving my skills in this field. In my journey, I have been exploring various web technologies and frameworks, and I enjoy building interactive and dynamic web applications. My goal is to become a proficient full-stack developer and contribute to impactful projects.
