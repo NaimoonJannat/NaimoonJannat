@@ -118,14 +118,19 @@ A platform for creating, submitting, and grading assignments collaboratively.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naimoonjannat/naimoonjannat/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naimoonjannat/naimoonjannat/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/naimoonjannat/naimoonjannat/output/github-contribution-grid-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaimoonJannat/NaimoonJannat/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaimoonJannat/NaimoonJannat/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/NaimoonJannat/NaimoonJannat/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimoonjannat&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naimoonjannat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimoonjannat&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimoonjannat&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages"/>
 </p>
 
 ---
